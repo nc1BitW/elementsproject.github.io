@@ -18,6 +18,14 @@ sudo add-apt-repository universe
 sudo apt-get update
 sudo apt-get install bitcoind
 ~~~~
+~~~~
+Ubuntu 19.10
+sudo apt-add-repository ppa:bitcoin/bitcoin
+sudo snap info bitcoin
+sudo snap install bitcoin
+~~~~
+
+
 
 Check that the install worked:
 
